@@ -1,0 +1,1 @@
+## :rocket: Sistema de autenticação em NodeJS utilizando Koa, Sequelize, SQLite e JWT na Api e react com ant, styled components, jest e redux no client
